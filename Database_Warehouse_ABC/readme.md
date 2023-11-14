@@ -9,5 +9,5 @@ Function UDF_ABC(Data As Variant, MaxValue As Variant)
   If Data >= Step And Data < (Step * 2) Then ABC = "B"
   If Data >= (Step * 2) Then ABC = "A"
   UDF_ABC = ABC  
-End Function![Uploading image.png…]()
+End Function 
 
